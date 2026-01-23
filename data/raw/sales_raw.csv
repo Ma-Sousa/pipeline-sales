@@ -1,0 +1,16 @@
+order_id,order_date,customer_id,product,category,unit_price,quantity,city
+1001,2025-12-01,C001,Dog Food,Food,129.90,2,Sao Paulo
+1002,2025-12-01,C002,Cat Litter,Hygiene,59.90,1,Sao Paulo
+1003,2025-12-02,C003,Shampoo,Hygiene,34.50,3,Campinas
+1004,2025-12-02,C004,Leash,Accessories,49.99,1,Santos
+1005,2025-12-03,C002,Dog Food,Food,129.90,1,Sao Paulo
+1006,2025-12-03,C005,Toy,Accessories,29.90,2,Guarulhos
+1007,2025-12-04,C006,Cat Food,Food,119.90,1,Campinas
+1008,2025-12-04,C007,Dog Treats,Food,19.90,5,Sao Paulo
+1009,2025-12-05,C008,Shampoo,Hygiene,34.50,2,Santos
+1010,2025-12-05,C009,Leash,Accessories,49.99,1,Campinas
+1011,2025-12-06,C010,Dog Food,Food,,1,Sao Paulo
+1012,2025-12-06,C011,Toy,Accessories,29.90,,Guarulhos
+1013,2025-12-07,C012,Cat Litter,Hygiene,59.90,1,
+1014,2025-12-07,C013,Dog Treats,Food,19.90,2,Sao Paulo
+1015,2025-12-08,C014,Cat Food,Food,119.90,1,Sao Paulo
