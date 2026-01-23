@@ -28,6 +28,7 @@ O dashboard contém:
 📌 Arquivo do Power BI: `dashboard/dashboard_vendas.pbix`
 
 ## Estrutura do Projeto
+```
 data/
     raw/ # dados brutos
     processed/ # dados tratados
@@ -36,6 +37,7 @@ data/
     src/ # scripts Python
     README.md
     requirements.txt
+```  
 
 
 ## Tecnologias utilizadas
