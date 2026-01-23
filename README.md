@@ -25,7 +25,10 @@ O dashboard contém:
   - Cidade
   - Período
 
-📌 Arquivo do Power BI: `dashboard/dashboard_vendas.pbix`
+## Preview do Dashboard
+
+![Dashboard](dashboard/preview.png)
+
 
 ## Estrutura do Projeto
 ```
