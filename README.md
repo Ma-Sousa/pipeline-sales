@@ -30,11 +30,11 @@ O dashboard contém:
 ## Estrutura do Projeto
 ```
 data/
-    raw/ # dados brutos
-    processed/ # dados tratados
-    dashboard/ # arquivo .pbix do Power BI
-    sql/ # queries SQL
-    src/ # scripts Python
+    raw/ dados brutos
+    processed/ dados tratados
+    dashboard/ arquivo .pbix do Power BI
+    sql/ queries SQL
+    src/ scripts Python
     README.md
     requirements.txt
 ```  
