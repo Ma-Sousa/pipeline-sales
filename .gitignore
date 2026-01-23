@@ -1,26 +1,28 @@
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .venv/
 venv/
+env/
 
-# Jupyter
+# Jupyter / IDE
 .ipynb_checkpoints/
+.vscode/
+.idea/
 
 # OS
-Thumbs.db
 .DS_Store
+Thumbs.db
 
-#VS Code
-.vscode/
-
-#Data (don't version raw/processed)
-data/raw/
-data/processed/
+# Logs
+*.log
 
 # Power BI
 *.pbix
 
-# Airflow (local)
-airflow/logs/
-airflow/plugins/__pycache__/
+# Data (se quiser esconder dados do GitHub)
+data/raw/
+data/processed/
+*.csv
